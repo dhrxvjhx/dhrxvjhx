@@ -24,6 +24,8 @@
   <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
   <!--JavaScript-->
   <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;
+  <!--NodeJS
+  <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/node.js%20-%23000000.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a><br>
   <!--Python-->
   <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;
   <!--Django
