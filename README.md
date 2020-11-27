@@ -9,8 +9,8 @@
   </a>
 </p>          
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dhruvjha11&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjha11&hide=TeX&layout=compact"></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvjha11&show_icons=true&count_private=true&theme=dark" width="350"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjha11&layout=compact&theme=material-palenight" />
 </p>
          
 <p align='center'>
@@ -47,7 +47,11 @@
   <a href="https://discord.gg/Ed9vvZrScN"><img src="https://img.shields.io/badge/Support%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://top.gg/bot/781444535389126666"><img src="https://img.shields.io/badge/Invite%20the%20Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/dhruvjha11/Brooklyn99-Bot"><img src="https://img.shields.io/badge/Source%20Code-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>   
+</p>
+<a href="https://github.com/dhruvjha11/Brooklyn99-Bot">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvjha11&repo=Brooklyn99-Bot&theme=material-palenight" />
+</a>
 <!--
 **dhruvjha11/dhruvjha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
