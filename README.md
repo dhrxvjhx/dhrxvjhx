@@ -11,7 +11,7 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dhruvjha11&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
+         
 <p align='center'>
   📫 How to reach me: <a href='mailto:developer.dhruvjha@gmail.com'><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -39,7 +39,12 @@
   <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/amd-Ryzen%203%203200U-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white"></a>&nbsp;
 </p>
 -->
-
+<h3 align='center'>DISCORD BOT 🤖:</h3>
+<p align='center'>
+  <a href="https://discord.gg/Ed9vvZrScN"><img src="https://img.shields.io/badge/Support%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://top.gg/bot/781444535389126666"><img src="https://img.shields.io/badge/Invite%20the%20Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/dhruvjha11/Brooklyn99-Bot"><img src="https://img.shields.io/badge/Source%20Code-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>   
 <!--
 **dhruvjha11/dhruvjha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
