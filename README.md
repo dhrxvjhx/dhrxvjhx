@@ -48,8 +48,11 @@
   <a href="https://top.gg/bot/781444535389126666"><img src="https://img.shields.io/badge/Invite%20the%20Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/dhruvjha11/Brooklyn99-Bot"><img src="https://img.shields.io/badge/Source%20Code-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+<p align='center'>
 <a href="https://github.com/dhruvjha11/Brooklyn99-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvjha11&repo=Brooklyn99-Bot&theme=material-palenight" /></a>&nbsp; 
 <a href="https://github.com/dhruvjha11/Dertin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvjha11&repo=Dertin&theme=material-palenight" /></a>
+</p>
+
 <!--
 **dhruvjha11/dhruvjha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
