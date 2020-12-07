@@ -9,7 +9,7 @@
   </a>
 </p>          
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvjha11&show_icons=true&count_private=true&theme=dark" width="350"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvjha11&show_icons=true&count_private=true&theme=material-palenight" width="350"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjha11&layout=compact&theme=material-palenight" />
 </p>
          
