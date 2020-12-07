@@ -42,12 +42,7 @@
   <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/amd-Ryzen%203%203200U-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white"></a>&nbsp;
 </p>
 -->
-<h3 align='center'>DISCORD BOT 🤖:</h3>
-<p align='center'>
-  <a href="https://discord.gg/Ed9vvZrScN"><img src="https://img.shields.io/badge/Support%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://top.gg/bot/781444535389126666"><img src="https://img.shields.io/badge/Invite%20the%20Bot-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/dhruvjha11/Brooklyn99-Bot"><img src="https://img.shields.io/badge/Source%20Code-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+
 <p align='center'>
 <a href="https://github.com/dhruvjha11/Brooklyn99-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvjha11&repo=Brooklyn99-Bot&theme=material-palenight" /></a>&nbsp; 
 <a href="https://github.com/dhruvjha11/Dertin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvjha11&repo=Dertin&theme=material-palenight" /></a>
