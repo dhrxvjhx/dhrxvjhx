@@ -9,8 +9,8 @@
   </a>
 </p>          
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvjha11&show_icons=true&count_private=true&theme=material-palenight" width="350"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjha11&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrxvjhx&show_icons=true&count_private=true&theme=material-palenight" width="350"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrxvjhx&layout=compact&theme=material-palenight" />
 </p>
          
 <p align='center'>
@@ -44,8 +44,8 @@
 -->
 
 <p align='center'>
-<a href="https://github.com/dhruvjha11/Brooklyn99-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvjha11&repo=Brooklyn99-Bot&theme=material-palenight" /></a>&nbsp; 
-<a href="https://github.com/dhruvjha11/Dertin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvjha11&repo=Dertin&theme=material-palenight" /></a>
+<a href="https://github.com/dhruvjha11/Brooklyn99-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhrxvjhx11&repo=Brooklyn99-Bot&theme=material-palenight" /></a>&nbsp; 
+<a href="https://github.com/dhruvjha11/Dertin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhrxvjhx11&repo=Dertin&theme=material-palenight" /></a>
 </p>
 
 <!--
