@@ -44,8 +44,8 @@
 -->
 
 <p align='center'>
-<a href="https://github.com/dhruvjha11/Brooklyn99-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhrxvjhx11&repo=Brooklyn99-Bot&theme=material-palenight" /></a>&nbsp; 
-<a href="https://github.com/dhruvjha11/Dertin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhrxvjhx11&repo=Dertin&theme=material-palenight" /></a>
+<a href="https://github.com/dhrxvjhx/Brooklyn99-Bot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhrxvjhx11&repo=Brooklyn99-Bot&theme=material-palenight" /></a>&nbsp; 
+<a href="https://github.com/dhrxvjhx/Dertin"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dhrxvjhx11&repo=Dertin&theme=material-palenight" /></a>
 </p>
 
 <!--
