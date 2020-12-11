@@ -20,19 +20,19 @@
 <h3 align="center">My Skills:</h3>
 <p align="center">  
   <!--HTML-->
-  <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/dhrxvjhx"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;
   <!--CSS-->
-  <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/dhrxvjhx"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;
   <!--JavaScript-->
-  <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;
+  <a href="https://github.com/dhrxvjhx"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;
   <!--NodeJS
-  <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/node.js%20-%23000000.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a><br>
-  <!--React-->
-  <a href="https://github.com/dhrxvjhx"><immg src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>&nbsp;
+  <a href="https://github.com/dhrxvjhx"><img src="https://img.shields.io/badge/node.js%20-%23000000.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a><br>
+  <!--React
+  <a href="https://github.com/dhrxvjhx"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>&nbsp;
   <!--Python-->
-  <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/dhrxvjhx"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;
   <!--Django
-  <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/dhrxvjhx"><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></a>&nbsp;
   -->
 </p>
 
