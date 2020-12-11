@@ -27,6 +27,8 @@
   <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;
   <!--NodeJS
   <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/node.js%20-%23000000.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a><br>
+  <!--React-->
+  <a href="https://github.com/dhrxvjhx"><immg src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>&nbsp;
   <!--Python-->
   <a href="https://github.com/dhruvjha11"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>&nbsp;
   <!--Django
