@@ -4,7 +4,7 @@
   <a href="https://instagram.com/dhruv.jha11">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
-  <a href="https://twitter.com/dhruv_j11">
+  <a href="https://twitter.com/dhrxvjhx">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>          
