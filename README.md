@@ -7,9 +7,13 @@
   <a href="https://twitter.com/dhrxvjhx">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://dhruv-snap.netlify.app">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+  </a>
   <a href="https://twitch.tv/dhruvjha11">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
+ 
   
 </p>          
 <p align='center'>
