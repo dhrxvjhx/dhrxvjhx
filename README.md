@@ -10,8 +10,8 @@
   <a href="https://dhruv-snap.netlify.app">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
   </a>
-  <a href="https://twitch.tv/dhruvjha11">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  <a href="https://dribbble.com/dhrxvjhx">
+    <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
  
   
