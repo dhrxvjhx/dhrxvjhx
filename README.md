@@ -17,7 +17,7 @@
   
 </p>          
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrxvjhx&show_icons=true&count_private=true&theme=material-palenight" height="200" width="300"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrxvjhx&show_icons=true&count_private=true&theme=material-palenight" height="300" width="300"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrxvjhx&layout=compact&theme=material-palenight" />
 </p>
          
