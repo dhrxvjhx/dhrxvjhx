@@ -21,9 +21,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrxvjhx&layout=compact&theme=material-palenight" />
 </p>
          
-<p align='center'>
+<!--p align='center'>
   📫 How to reach me: <a href='mailto:developer.dhruvjha@gmail.com'><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+</p-->
 
 <h3 align="center">My Skills:</h3>
 <p align="center">  
