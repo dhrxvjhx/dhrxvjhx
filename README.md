@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Dhruv</h1>
 
 <p align='center'>
-  <a href="https://instagram.com/dhruv.jha11">
+  <a href="https://instagram.com/dhruv.jhaa">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
   <a href="https://twitter.com/dhrxvjhx">
@@ -10,15 +10,17 @@
   <a href="https://dhruv-snap.netlify.app">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
   </a>
-  <a href="https://dribbble.com/dhrxvjhx">
-    <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  <a href="https://linkedin.com/in/dhruv-jha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
- 
-  
-</p>          
+  <!--a href="https://dribbble.com/dhrxvjhx">
+    <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a-->
+</p>    
+
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrxvjhx&show_icons=true&count_private=true&theme=material-palenight" height="300" width="300"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrxvjhx&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrxvjhx&show_icons=true&count_private=true&theme=material-palenight" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrxvjhx&layout=compact&theme=material-palenight" height="150" />
 </p>
          
 <!--p align='center'>
